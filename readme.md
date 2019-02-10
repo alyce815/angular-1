@@ -6,3 +6,4 @@
 
 ## How to Contribute
 - Instructions here
+- I am learning to use Angular and Git
